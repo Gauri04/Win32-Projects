@@ -1,0 +1,5 @@
+#include<windows.h>
+#include"PianoHeader.h"
+
+BIRTHDAYBITMAP BITMAP "bday.bmp"
+PIANOBITMAP BITMAP "pianoImage.bmp"
