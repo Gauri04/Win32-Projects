@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\CLSID\{0F7EACD3-1721-46B5-8FFF-3D557CCCFC27}]
+@="SumSubtractOuterComponnent"
+[HKEY_CLASSES_ROOT\CLSID\{0F7EACD3-1721-46B5-8FFF-3D557CCCFC27}\InprocServer32]
+@="C:\\Windows\\System32\\ContainmentOuterComponentWithRegFile.dll"
+
+
+[HKEY_CLASSES_ROOT\CLSID\{BD012AAA-D755-4C2B-A231-2903A946BAF0}]
+@="MultiplicationDivisionInnerComponent"
+[HKEY_CLASSES_ROOT\CLSID\{BD012AAA-D755-4C2B-A231-2903A946BAF0}\InprocServer32]
+@="C:\\Windows\\System32\\ContainmentInnerComponentWithRegFile.dll"
