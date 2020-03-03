@@ -1,0 +1,5 @@
+#include"PaintIconHeader.h"
+
+
+MYICON ICON "myicon.ico"
+
